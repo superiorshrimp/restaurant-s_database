@@ -1,2 +1,2 @@
 # restaurant's_database
-Przykładowa baza baza danych dla restauracji
+Przykładowa baza danych dla restauracji
